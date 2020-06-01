@@ -1,0 +1,11 @@
+C:\Users\Eliezer\source\repos\Elivator\Elivator\bin\Debug\netcoreapp3.1\Elivator.exe
+C:\Users\Eliezer\source\repos\Elivator\Elivator\bin\Debug\netcoreapp3.1\Elivator.deps.json
+C:\Users\Eliezer\source\repos\Elivator\Elivator\bin\Debug\netcoreapp3.1\Elivator.runtimeconfig.json
+C:\Users\Eliezer\source\repos\Elivator\Elivator\bin\Debug\netcoreapp3.1\Elivator.runtimeconfig.dev.json
+C:\Users\Eliezer\source\repos\Elivator\Elivator\bin\Debug\netcoreapp3.1\Elivator.dll
+C:\Users\Eliezer\source\repos\Elivator\Elivator\bin\Debug\netcoreapp3.1\Elivator.pdb
+C:\Users\Eliezer\source\repos\Elivator\Elivator\obj\Debug\netcoreapp3.1\Elivator.csprojAssemblyReference.cache
+C:\Users\Eliezer\source\repos\Elivator\Elivator\obj\Debug\netcoreapp3.1\Elivator.AssemblyInfoInputs.cache
+C:\Users\Eliezer\source\repos\Elivator\Elivator\obj\Debug\netcoreapp3.1\Elivator.AssemblyInfo.cs
+C:\Users\Eliezer\source\repos\Elivator\Elivator\obj\Debug\netcoreapp3.1\Elivator.dll
+C:\Users\Eliezer\source\repos\Elivator\Elivator\obj\Debug\netcoreapp3.1\Elivator.pdb

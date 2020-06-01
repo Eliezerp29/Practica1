@@ -1,0 +1,11 @@
+C:\Users\Eliezer\source\repos\ElRealVento\ElRealVento\bin\Debug\netcoreapp3.1\ElRealVento.exe
+C:\Users\Eliezer\source\repos\ElRealVento\ElRealVento\bin\Debug\netcoreapp3.1\ElRealVento.deps.json
+C:\Users\Eliezer\source\repos\ElRealVento\ElRealVento\bin\Debug\netcoreapp3.1\ElRealVento.runtimeconfig.json
+C:\Users\Eliezer\source\repos\ElRealVento\ElRealVento\bin\Debug\netcoreapp3.1\ElRealVento.runtimeconfig.dev.json
+C:\Users\Eliezer\source\repos\ElRealVento\ElRealVento\bin\Debug\netcoreapp3.1\ElRealVento.dll
+C:\Users\Eliezer\source\repos\ElRealVento\ElRealVento\bin\Debug\netcoreapp3.1\ElRealVento.pdb
+C:\Users\Eliezer\source\repos\ElRealVento\ElRealVento\obj\Debug\netcoreapp3.1\ElRealVento.csprojAssemblyReference.cache
+C:\Users\Eliezer\source\repos\ElRealVento\ElRealVento\obj\Debug\netcoreapp3.1\ElRealVento.AssemblyInfoInputs.cache
+C:\Users\Eliezer\source\repos\ElRealVento\ElRealVento\obj\Debug\netcoreapp3.1\ElRealVento.AssemblyInfo.cs
+C:\Users\Eliezer\source\repos\ElRealVento\ElRealVento\obj\Debug\netcoreapp3.1\ElRealVento.dll
+C:\Users\Eliezer\source\repos\ElRealVento\ElRealVento\obj\Debug\netcoreapp3.1\ElRealVento.pdb

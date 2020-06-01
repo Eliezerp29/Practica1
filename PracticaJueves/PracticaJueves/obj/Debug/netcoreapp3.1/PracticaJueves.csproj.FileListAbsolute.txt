@@ -1,0 +1,11 @@
+C:\Users\Eliezer\source\repos\PracticaJueves\PracticaJueves\bin\Debug\netcoreapp3.1\PracticaJueves.exe
+C:\Users\Eliezer\source\repos\PracticaJueves\PracticaJueves\bin\Debug\netcoreapp3.1\PracticaJueves.deps.json
+C:\Users\Eliezer\source\repos\PracticaJueves\PracticaJueves\bin\Debug\netcoreapp3.1\PracticaJueves.runtimeconfig.json
+C:\Users\Eliezer\source\repos\PracticaJueves\PracticaJueves\bin\Debug\netcoreapp3.1\PracticaJueves.runtimeconfig.dev.json
+C:\Users\Eliezer\source\repos\PracticaJueves\PracticaJueves\bin\Debug\netcoreapp3.1\PracticaJueves.dll
+C:\Users\Eliezer\source\repos\PracticaJueves\PracticaJueves\bin\Debug\netcoreapp3.1\PracticaJueves.pdb
+C:\Users\Eliezer\source\repos\PracticaJueves\PracticaJueves\obj\Debug\netcoreapp3.1\PracticaJueves.csprojAssemblyReference.cache
+C:\Users\Eliezer\source\repos\PracticaJueves\PracticaJueves\obj\Debug\netcoreapp3.1\PracticaJueves.AssemblyInfoInputs.cache
+C:\Users\Eliezer\source\repos\PracticaJueves\PracticaJueves\obj\Debug\netcoreapp3.1\PracticaJueves.AssemblyInfo.cs
+C:\Users\Eliezer\source\repos\PracticaJueves\PracticaJueves\obj\Debug\netcoreapp3.1\PracticaJueves.dll
+C:\Users\Eliezer\source\repos\PracticaJueves\PracticaJueves\obj\Debug\netcoreapp3.1\PracticaJueves.pdb

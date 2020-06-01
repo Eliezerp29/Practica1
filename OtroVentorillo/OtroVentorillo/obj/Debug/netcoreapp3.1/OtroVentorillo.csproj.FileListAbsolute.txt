@@ -1,0 +1,11 @@
+C:\Users\Eliezer\source\repos\OtroVentorillo\OtroVentorillo\bin\Debug\netcoreapp3.1\OtroVentorillo.exe
+C:\Users\Eliezer\source\repos\OtroVentorillo\OtroVentorillo\bin\Debug\netcoreapp3.1\OtroVentorillo.deps.json
+C:\Users\Eliezer\source\repos\OtroVentorillo\OtroVentorillo\bin\Debug\netcoreapp3.1\OtroVentorillo.runtimeconfig.json
+C:\Users\Eliezer\source\repos\OtroVentorillo\OtroVentorillo\bin\Debug\netcoreapp3.1\OtroVentorillo.runtimeconfig.dev.json
+C:\Users\Eliezer\source\repos\OtroVentorillo\OtroVentorillo\bin\Debug\netcoreapp3.1\OtroVentorillo.dll
+C:\Users\Eliezer\source\repos\OtroVentorillo\OtroVentorillo\bin\Debug\netcoreapp3.1\OtroVentorillo.pdb
+C:\Users\Eliezer\source\repos\OtroVentorillo\OtroVentorillo\obj\Debug\netcoreapp3.1\OtroVentorillo.csprojAssemblyReference.cache
+C:\Users\Eliezer\source\repos\OtroVentorillo\OtroVentorillo\obj\Debug\netcoreapp3.1\OtroVentorillo.AssemblyInfoInputs.cache
+C:\Users\Eliezer\source\repos\OtroVentorillo\OtroVentorillo\obj\Debug\netcoreapp3.1\OtroVentorillo.AssemblyInfo.cs
+C:\Users\Eliezer\source\repos\OtroVentorillo\OtroVentorillo\obj\Debug\netcoreapp3.1\OtroVentorillo.dll
+C:\Users\Eliezer\source\repos\OtroVentorillo\OtroVentorillo\obj\Debug\netcoreapp3.1\OtroVentorillo.pdb

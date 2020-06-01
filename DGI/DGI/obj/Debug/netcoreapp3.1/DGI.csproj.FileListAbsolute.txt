@@ -1,0 +1,11 @@
+C:\Users\Eliezer\source\repos\DGI\DGI\bin\Debug\netcoreapp3.1\DGI.exe
+C:\Users\Eliezer\source\repos\DGI\DGI\bin\Debug\netcoreapp3.1\DGI.deps.json
+C:\Users\Eliezer\source\repos\DGI\DGI\bin\Debug\netcoreapp3.1\DGI.runtimeconfig.json
+C:\Users\Eliezer\source\repos\DGI\DGI\bin\Debug\netcoreapp3.1\DGI.runtimeconfig.dev.json
+C:\Users\Eliezer\source\repos\DGI\DGI\bin\Debug\netcoreapp3.1\DGI.dll
+C:\Users\Eliezer\source\repos\DGI\DGI\bin\Debug\netcoreapp3.1\DGI.pdb
+C:\Users\Eliezer\source\repos\DGI\DGI\obj\Debug\netcoreapp3.1\DGI.csprojAssemblyReference.cache
+C:\Users\Eliezer\source\repos\DGI\DGI\obj\Debug\netcoreapp3.1\DGI.AssemblyInfoInputs.cache
+C:\Users\Eliezer\source\repos\DGI\DGI\obj\Debug\netcoreapp3.1\DGI.AssemblyInfo.cs
+C:\Users\Eliezer\source\repos\DGI\DGI\obj\Debug\netcoreapp3.1\DGI.dll
+C:\Users\Eliezer\source\repos\DGI\DGI\obj\Debug\netcoreapp3.1\DGI.pdb

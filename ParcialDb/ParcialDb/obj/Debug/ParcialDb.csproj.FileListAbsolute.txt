@@ -1,0 +1,6 @@
+C:\Users\Eliezer\source\repos\ParcialDb\ParcialDb\bin\Debug\ParcialDb.exe.config
+C:\Users\Eliezer\source\repos\ParcialDb\ParcialDb\bin\Debug\ParcialDb.exe
+C:\Users\Eliezer\source\repos\ParcialDb\ParcialDb\bin\Debug\ParcialDb.pdb
+C:\Users\Eliezer\source\repos\ParcialDb\ParcialDb\obj\Debug\ParcialDb.csprojAssemblyReference.cache
+C:\Users\Eliezer\source\repos\ParcialDb\ParcialDb\obj\Debug\ParcialDb.exe
+C:\Users\Eliezer\source\repos\ParcialDb\ParcialDb\obj\Debug\ParcialDb.pdb

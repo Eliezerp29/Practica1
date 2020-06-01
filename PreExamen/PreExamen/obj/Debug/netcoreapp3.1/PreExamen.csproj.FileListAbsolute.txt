@@ -1,0 +1,11 @@
+C:\Users\Eliezer\source\repos\PreExamen\PreExamen\obj\Debug\netcoreapp3.1\PreExamen.csprojAssemblyReference.cache
+C:\Users\Eliezer\source\repos\PreExamen\PreExamen\obj\Debug\netcoreapp3.1\PreExamen.AssemblyInfoInputs.cache
+C:\Users\Eliezer\source\repos\PreExamen\PreExamen\obj\Debug\netcoreapp3.1\PreExamen.AssemblyInfo.cs
+C:\Users\Eliezer\source\repos\PreExamen\PreExamen\bin\Debug\netcoreapp3.1\PreExamen.exe
+C:\Users\Eliezer\source\repos\PreExamen\PreExamen\bin\Debug\netcoreapp3.1\PreExamen.deps.json
+C:\Users\Eliezer\source\repos\PreExamen\PreExamen\bin\Debug\netcoreapp3.1\PreExamen.runtimeconfig.json
+C:\Users\Eliezer\source\repos\PreExamen\PreExamen\bin\Debug\netcoreapp3.1\PreExamen.runtimeconfig.dev.json
+C:\Users\Eliezer\source\repos\PreExamen\PreExamen\bin\Debug\netcoreapp3.1\PreExamen.dll
+C:\Users\Eliezer\source\repos\PreExamen\PreExamen\bin\Debug\netcoreapp3.1\PreExamen.pdb
+C:\Users\Eliezer\source\repos\PreExamen\PreExamen\obj\Debug\netcoreapp3.1\PreExamen.dll
+C:\Users\Eliezer\source\repos\PreExamen\PreExamen\obj\Debug\netcoreapp3.1\PreExamen.pdb

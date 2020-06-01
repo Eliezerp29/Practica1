@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebita", "Pruebita\Pruebita.csproj", "{21E1B4CB-BE9E-429F-A5BE-62712164ACFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21E1B4CB-BE9E-429F-A5BE-62712164ACFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E1B4CB-BE9E-429F-A5BE-62712164ACFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E1B4CB-BE9E-429F-A5BE-62712164ACFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E1B4CB-BE9E-429F-A5BE-62712164ACFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49E6D50D-D874-4F45-8AE8-EEB668A75DA9}
+	EndGlobalSection
+EndGlobal

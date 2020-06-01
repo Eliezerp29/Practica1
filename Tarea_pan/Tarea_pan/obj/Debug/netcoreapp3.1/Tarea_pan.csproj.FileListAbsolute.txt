@@ -1,0 +1,11 @@
+C:\Users\Eliezer\source\repos\Tarea_pan\Tarea_pan\bin\Debug\netcoreapp3.1\Tarea_pan.exe
+C:\Users\Eliezer\source\repos\Tarea_pan\Tarea_pan\bin\Debug\netcoreapp3.1\Tarea_pan.deps.json
+C:\Users\Eliezer\source\repos\Tarea_pan\Tarea_pan\bin\Debug\netcoreapp3.1\Tarea_pan.runtimeconfig.json
+C:\Users\Eliezer\source\repos\Tarea_pan\Tarea_pan\bin\Debug\netcoreapp3.1\Tarea_pan.runtimeconfig.dev.json
+C:\Users\Eliezer\source\repos\Tarea_pan\Tarea_pan\bin\Debug\netcoreapp3.1\Tarea_pan.dll
+C:\Users\Eliezer\source\repos\Tarea_pan\Tarea_pan\bin\Debug\netcoreapp3.1\Tarea_pan.pdb
+C:\Users\Eliezer\source\repos\Tarea_pan\Tarea_pan\obj\Debug\netcoreapp3.1\Tarea_pan.csprojAssemblyReference.cache
+C:\Users\Eliezer\source\repos\Tarea_pan\Tarea_pan\obj\Debug\netcoreapp3.1\Tarea_pan.AssemblyInfoInputs.cache
+C:\Users\Eliezer\source\repos\Tarea_pan\Tarea_pan\obj\Debug\netcoreapp3.1\Tarea_pan.AssemblyInfo.cs
+C:\Users\Eliezer\source\repos\Tarea_pan\Tarea_pan\obj\Debug\netcoreapp3.1\Tarea_pan.dll
+C:\Users\Eliezer\source\repos\Tarea_pan\Tarea_pan\obj\Debug\netcoreapp3.1\Tarea_pan.pdb
